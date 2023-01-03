@@ -5,9 +5,6 @@ import java.util.ArrayList;
 /**
  * This class contains methods which perform various operations on a layered linked
  * list to simulate transit
- * 
- * @author Ishaan Ivaturi
- * @author Prince Rawal
  */
 public class Transit {
 	private TNode trainZero; // a reference to the zero node in the train layer
